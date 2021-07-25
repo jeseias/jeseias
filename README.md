@@ -8,7 +8,7 @@
 
 
 <a href="https://github.com/jeseias">
-  <img alt="Github Badge" src="https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/solrachix" />
+  <img alt="Github Badge" src="https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/jeseias" />
 </a>
 <a href="https://www.linkedin.com/in/jese%C3%ADas-domingos-b7919219b/">
     <img alt="Jeseías Domingos" src="https://img.shields.io/badge/-Jeseías%20Domingos-2867b2?style=for-the-badge&logo=Linkedin&logoColor=white" />
