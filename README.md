@@ -4,8 +4,6 @@
 
 ###  On a daily bases I mostly on the frontend with **ReactJS** using the **NextJS** framework. On the **backend**, I work the **ExpressJS** and for my database mostly **MongoDB** or **Postgres**. On **Mobile** I work with **ReactNative**, nowadays using **Expo**. For **Desktop** development **ElectronJS** along side **ReactJS**
 
-<br />
-
 ## You can **contact** or **find** me here
 
 
@@ -24,14 +22,10 @@
       <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
 </a>   
 
-<br />
-
 ## Learning now
 
 ### Right now I am totally focused on mastering **Mobile** development, and afterwards **Desktop**
 ### As I am quite very much comfortable with the **backend** and **web** development.
-
-<br />
 
  </p>
  
@@ -42,8 +36,6 @@
   </a>
 </div>
  
- <br />
-
 
 ###  **Technologies**
 
