@@ -2,12 +2,7 @@
 
 ### I'm a **full-stack developer**, I've been programing for 5 years now in total, and 2 years as a professional. The **key** of my programming stack is **Javascript/Typescript**. I used it on the **backend**, **web**, **mobile** and **desktop**
 
-<br />
-
-###  On a daily bases I mostly on the frontend with **ReactJS** using the **NextJS** framework. 
-### On the **backend**, I work the **ExpressJS** and for my database mostly **MongoDB** or **Postgres**.
-### On **Mobile** I work with **ReactNative**, nowadays using **Expo**.
-### For **Desktop** development **ElectronJS** along side **ReactJS**
+###  On a daily bases I mostly on the frontend with **ReactJS** using the **NextJS** framework. On the **backend**, I work the **ExpressJS** and for my database mostly **MongoDB** or **Postgres**. On **Mobile** I work with **ReactNative**, nowadays using **Expo**. For **Desktop** development **ElectronJS** along side **ReactJS**
 
 <br />
 
